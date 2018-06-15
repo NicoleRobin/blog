@@ -65,7 +65,7 @@ rss:
 footer:
   # Specify the date when the site was setup.
   # If not defined, current year will be used.
-  since: 2017
+  since: 2018
 
   # Icon between year and copyright info.
   icon: user
@@ -160,6 +160,7 @@ social:
   #YouTube: https://youtube.com/yourname || youtube
   #Instagram: https://instagram.com/yourname || instagram
   #Skype: skype:yourname?call|chat || skype
+  Wechat: /images/wechat.jpg || wechat
 
 social_icons:
   enable: true
@@ -425,8 +426,8 @@ pangu: false
 
 # Disqus
 disqus:
-  enable: true
-  shortname: nicolerobin
+  enable: false
+  shortname: 
   count: true
   lazyload: false
 
@@ -435,9 +436,9 @@ disqus:
 
 # changyan
 changyan:
-  enable: false
-  appid:
-  appkey:
+  enable: true
+  appid: cytFmnG7h
+  appkey: a38697e70df27d911968a5816e64be8c
 
 
 # Valine.

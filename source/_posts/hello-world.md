@@ -35,3 +35,14 @@ shell
 {% codeblock hello_world.sh lang:shell %}
 echo 'Hello world!'
 {% endcodeblock %}
+
+go
+{% codeblock hello_world.go lang:go %}
+package main
+
+import "fmt"
+
+func main() {
+    fmt.Println("hello world!")
+}
+{% endcodeblock %}
