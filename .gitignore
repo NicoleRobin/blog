@@ -59,3 +59,6 @@ typings/
 
 # generate html
 public/
+
+# db.json
+db.json
