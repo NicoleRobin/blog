@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ''
+title: 听香水榭
+subtitle: 宠辱不惊，闲看庭前花开花落；去留无意，漫随天边云卷云舒。
 description: ''
 keywords:
-author: John Doe
+author: robin zhang
 language: en
 timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
+url: http://nicolerobin.github.io/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
