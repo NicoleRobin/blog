@@ -86,3 +86,9 @@ gc 7 @363.559s 0%: 0.50+2.2+0.012 ms clock, 4.0+0/4.0/0+0.098 ms cpu, 0->0->0 MB
 - released：释放的系统内存
 - consumed：申请的系统内存
 ```
+
+# 参考文档
+1. [runtime: Large maps cause significant GC pauses #9477](https://github.com/golang/go/issues/9477)
+2. [bigcache优化技巧](https://colobu.com/2019/11/18/how-is-the-bigcache-is-fast/)
+3. [Writing a very fast cache service with millions of entries in Go](https://allegro.tech/2016/03/writing-fast-cache-service-in-go.html/)
+4. [offheap](https://pkg.go.dev/github.com/glycerine/offheap)
