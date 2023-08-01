@@ -626,9 +626,9 @@ hexo-theme-landscape@^1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/hexo-theme-landscape/-/hexo-theme-landscape-1.0.0.tgz#43a549ebb2bea73196200ee4397feb764131a481"
 
-hexo-theme-next@^8.17.0:
-  version "8.17.0"
-  resolved "https://registry.yarnpkg.com/hexo-theme-next/-/hexo-theme-next-8.17.0.tgz#c679dcf9cf59a754f1b00f7b0df8d8a92a4ce52b"
+hexo-theme-next@^8.18.0:
+  version "8.18.0"
+  resolved "https://registry.yarnpkg.com/hexo-theme-next/-/hexo-theme-next-8.18.0.tgz#a8597c1f74794445ec03ecd0b85de553b6d66c6a"
 
 hexo-util@^2.0.0, hexo-util@^2.7.0:
   version "2.7.0"
