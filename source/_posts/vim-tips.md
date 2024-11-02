@@ -3,6 +3,7 @@ title: vim-tips
 date: 2023-04-10 00:57:25
 tags:
     - vim
+    - cheat_sheet
 ---
 
 # vim使用技巧
