@@ -105,3 +105,5 @@ deploy:
   type: 'git'
   repo: git@github.com:NicoleRobin/nicolerobin.github.io.git
   branch: main
+  name: robin zhang
+  email: lit050528@gmail.com
