@@ -2,7 +2,8 @@
 title: vim-tips
 date: 2023-04-10 00:57:25
 tags:
-    - vim
+  - git
+  - cheat_sheet
 ---
 
 # git使用技巧

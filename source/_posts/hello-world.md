@@ -2,7 +2,7 @@
 title: Hello World
 date: 2018-02-01 10:44:23
 tags: 
-  - 代码
+  - code
 ---
 C
 {% codeblock hello_world.c lang:c %}

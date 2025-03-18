@@ -3,7 +3,7 @@ title: tcpdump使用指南
 date: 2023-01-08 00:09:58
 tags: 
   - tcpdump
-  - 使用指南
+  - cheat_sheet
 ---
 
 - [[使用指南]]

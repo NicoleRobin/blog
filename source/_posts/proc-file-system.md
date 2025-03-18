@@ -3,7 +3,7 @@ title: /proc文件系统详解
 date: 2023-04-26 00:19:31
 tags:
   - linux
-    proc
+  - proc
 
 ---
 
