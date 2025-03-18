@@ -1,5 +1,5 @@
 ---
-title: systemctl_cheat_sheet
+title: systemctl备忘录
 date: 2024-11-02 20:13:42
 tags:
     - systemctl

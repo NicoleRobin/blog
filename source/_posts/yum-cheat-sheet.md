@@ -1,5 +1,5 @@
 ---
-title: yum_cheat_sheet
+title: yum备忘录
 date: 2024-11-02 19:29:41
 tags:
     - yum

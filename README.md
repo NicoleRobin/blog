@@ -11,5 +11,5 @@ hexo server
 ```
 3、发布到博客
 ```
-hexo deploy
+hexo deploy -g
 ```

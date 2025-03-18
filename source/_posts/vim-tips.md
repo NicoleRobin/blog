@@ -1,5 +1,5 @@
 ---
-title: vim-tips
+title: vim备忘录
 date: 2023-04-10 00:57:25
 tags:
     - vim
